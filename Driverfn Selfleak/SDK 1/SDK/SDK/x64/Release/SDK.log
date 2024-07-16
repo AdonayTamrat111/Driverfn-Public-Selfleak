@@ -1,0 +1,479 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Cache.hpp
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\ctx.hpp(38,32): warning C4129: 'I': unrecognized character escape sequence
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(153,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(154,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(155,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(164,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(165,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(166,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(170,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(171,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(175,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(176,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(180,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(217,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(218,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(219,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(244,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(245,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(246,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(103,9): warning C4005: 'LOBYTE': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(104,9): warning C4005: 'LOWORD': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(106,9): warning C4005: 'HIBYTE': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(106,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(107,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(190,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,43): error C2275: 'uint64_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,53): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(250,30): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(250,39): error C2275: 'uint16_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(266,13): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,43): error C2275: 'uint64_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,53): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(286,13): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(286,22): error C2275: 'uint16_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(288,23): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(288,32): error C2275: 'DWORD': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(289,37): error C3536: 'a1': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,47): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(311,31): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(311,40): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(323,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(323,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(335,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(335,44): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,26): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,35): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,46): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,55): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(366,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(366,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(378,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(378,44): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(402,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(402,34): error C2062: type '__int64' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(403,24): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(403,33): error C2062: type 'int' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(405,28): error C3536: 'length': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(408,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(408,43): error C2062: type '__int64' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(411,9): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(411,23): error C3536: 'ftext': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(420,18): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(427,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(447,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(447,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(459,37): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(459,46): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(474,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(474,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(475,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(475,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(486,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(486,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(487,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(487,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(488,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(488,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,29): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,38): error C2275: 'FVector': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,47): error C3536: 'location_pointer': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(494,24): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(494,33): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(529,16): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(529,25): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(534,26): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(534,35): error C2062: type 'int' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,85): error C3536: 'is_cached': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,30): error C2275: 'ftransform': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,42): error C3536: 'bone_array': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(540,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(540,44): error C2275: 'ftransform': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,49): error C3536: 'bone': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,75): error C3536: 'component_to_world': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,28): error C2660: 'MatrixMultiplication': function does not take 1 arguments
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(549,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(549,34): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(550,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(550,34): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(561,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(561,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(575,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(576,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(577,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(578,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(580,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,163): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,152): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,163): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,152): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(639,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(672,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(673,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(677,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(677,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(678,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(678,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(679,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(679,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(680,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(680,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(682,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(682,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(777,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(777,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,30): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,41): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(33,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(33,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(36,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(36,34): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,48): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,57): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(40,32): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(40,41): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(42,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(42,30): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(48,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(48,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(50,29): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(50,38): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(54,32): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(54,41): error C2275: 'FVector': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,36): error C1003: error count exceeds 100; stopping compilation
+  pe.cpp
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\utils\ntdll.h(2794,9): warning C4005: 'FLS_MAXIMUM_AVAILABLE': macro redefinition
+  swind2.cpp
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\utils\ntdll.h(2794,9): warning C4005: 'FLS_MAXIMUM_AVAILABLE': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\exploit\swind2.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\exploit\swind2.cpp(104,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\exploit\swind2.cpp(554,16): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\exploit\swind2.cpp(559,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\grdv\exploit\swind2.cpp(565,15): warning C4474: 'printf' : too many arguments passed for format string
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(1616,169): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(1616,276): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(1638,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(1642,166): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(2310,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(3455,165): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\imgui\imgui_widgets.cpp(5999,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\ctx.hpp(38,32): warning C4129: 'I': unrecognized character escape sequence
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(76,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(153,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(154,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(155,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(164,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(165,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(166,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(170,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(171,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(175,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(176,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(180,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(217,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(218,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(219,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(244,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(245,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Includes.h(246,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(103,9): warning C4005: 'LOBYTE': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(104,9): warning C4005: 'LOWORD': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\hex.hpp(106,9): warning C4005: 'HIBYTE': macro redefinition
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(106,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(107,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(190,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,43): error C2275: 'uint64_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(249,53): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(250,30): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(250,39): error C2275: 'uint16_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(266,13): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,43): error C2275: 'uint64_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(285,53): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(286,13): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(286,22): error C2275: 'uint16_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(288,23): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(288,32): error C2275: 'DWORD': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(289,37): error C3536: 'a1': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(299,47): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(311,31): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(311,40): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(323,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(323,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(335,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(335,44): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,26): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,35): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,46): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(351,55): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(366,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(366,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(378,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(378,44): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(402,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(402,34): error C2062: type '__int64' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(403,24): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(403,33): error C2062: type 'int' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(405,28): error C3536: 'length': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(408,34): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(408,43): error C2062: type '__int64' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(411,9): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(411,23): error C3536: 'ftext': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(420,18): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(427,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(447,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(447,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(459,37): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(459,46): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(474,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(474,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(475,33): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(475,42): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(486,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(486,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(487,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(487,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(488,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(488,34): error C2062: type 'double' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,29): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,38): error C2275: 'FVector': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(493,47): error C3536: 'location_pointer': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(494,24): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(494,33): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(529,16): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(529,25): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(534,26): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(534,35): error C2062: type 'int' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(536,85): error C3536: 'is_cached': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,30): error C2275: 'ftransform': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(538,42): error C3536: 'bone_array': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(540,35): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(540,44): error C2275: 'ftransform': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,49): error C3536: 'bone': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,75): error C3536: 'component_to_world': cannot be used before it is initialized
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(542,28): error C2660: 'MatrixMultiplication': function does not take 1 arguments
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(549,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(549,34): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(550,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(550,34): error C2062: type 'float' unexpected
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(561,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(561,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(575,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(576,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(577,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(578,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(580,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(583,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(584,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(585,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(586,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(587,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,155): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,133): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(588,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,163): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,152): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(589,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,163): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,152): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(590,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(592,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(593,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(594,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(595,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(596,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(597,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(598,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(599,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(639,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(672,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(673,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(677,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(677,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(678,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(678,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(679,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(679,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(680,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(680,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(682,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(682,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(777,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\SDK.hpp(777,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,30): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(31,41): error C2065: 'base_address': undeclared identifier
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(33,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(33,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(36,25): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(36,34): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,28): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,37): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,48): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(38,57): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(40,32): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(40,41): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(42,21): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(42,30): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(48,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(48,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(50,29): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(50,38): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(54,32): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(54,41): error C2275: 'FVector': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,27): error C2653: 'io': is not a class or namespace name
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,36): error C2275: 'uintptr_t': expected an expression instead of a type
+C:\Users\reali\Downloads\SDK 1\SDK 1\SDK\Cache.hpp(55,36): error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
